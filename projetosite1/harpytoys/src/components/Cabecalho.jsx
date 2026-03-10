@@ -8,7 +8,7 @@ function Cabecalho() {
 
       {/* Logo — clicável, leva para Home */}
       <Link to='/' className='logo'>
-        Minha<span>Empresa</span>
+        HarpyToys
       </Link>
 
       {/* Menu de navegação */}
